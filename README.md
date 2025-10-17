@@ -4,6 +4,8 @@ This project implements a **brain tumor detection system** using deep learning o
 
 ## Dataset
 
+**Dataset link:** https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
+
 The dataset consists of MRI images stored in two folders:
 
 - `no` – images without tumors  
